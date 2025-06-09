@@ -1,9 +1,15 @@
 my edit: 
-(yuyuyuu)
+# node check #
+koi node check kr na hi to
+```
+screen -ls
+```
+screen -ls dalne pe jo node id aaye ga 1st me usse iscommand ke last me dl ke check kr sakte ho
+```
+screen -r code
+```
+# 
 
-```
-````````````````````````
-```
 
 <div align="center">
 
