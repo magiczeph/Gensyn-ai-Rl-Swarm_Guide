@@ -8,8 +8,10 @@ screen -ls dalne pe jo node id aaye ga 1st me usse is command ke last me dl ke c
 ```
 screen -r code
 ```
-# 
-
+# Node veryfy
+# Bot : https://t.me/gensyntrackbot
+# Explorer : https://gensyn-testnet.explorer.alchemy.com
+# Dashboard: https://dashboard.gensyn.ai/
 
 <div align="center">
 
