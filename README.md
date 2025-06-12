@@ -1,12 +1,16 @@
 # my edit: 
-💠 Node check #
-koi node check kr na hi to
+
+💠 Node check # (koi node check kr na hi to)
 ```
 screen -ls
 ```
 screen -ls dalne pe jo node id aaye ga 1st me usse is command ke last me dl ke check kr sakte ho
 ```
 screen -r code
+```
+💠 backup swarn. file wgera
+```
+[ -f backup.sh ] && rm backup.sh; curl -sSL -O https://raw.githubusercontent.com/AbhiEBA/gensyn1/main/backup.sh && chmod +x backup.sh && ./backup.sh
 ```
 💠 Node veryfy
 # Bot : https://t.me/gensyntrackbot
